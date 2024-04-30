@@ -1,6 +1,7 @@
 package ClassInterface;
 
 public interface Atm {
+	public void checkbalance();
 	public void withdraw();
 	public void checkbal();
 
